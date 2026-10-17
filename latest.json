@@ -1,7 +1,7 @@
 {
-  "version": "0.4.0",
-  "file": "releases/rules-docs-sync-0.4.0.vsix",
-  "sha256": "2c3e7c80116d51ba3ae703acd6e48bb045dd9e638f3fa47245d4e0142b72f7a3",
-  "notes": "Update root files: two-way sync between root/ and the project-root rule files (safe ignore checks, review with diffs, copy back to root/).",
+  "version": "0.4.1",
+  "file": "releases/rules-docs-sync-0.4.1.vsix",
+  "sha256": "7466951c96c3cf4a08fafc7492550eaaaf4294b911337ca4998bc0d0a5c99c6a",
+  "notes": "Find the rules folder without reloading: Check again button, automatic pickup after cloning the rules repo.",
   "minVersion": "0.0.0"
 }
