@@ -1,7 +1,7 @@
 {
-  "version": "0.4.2",
-  "file": "releases/rules-docs-sync-0.4.2.vsix",
-  "sha256": "b5438643be97c1a4592a2c1b016515f2adbfa1d119bea4b2efba408196870b0e",
-  "notes": "Status bar hover no longer blinks; new Refresh button to check everything again.",
+  "version": "0.5.0",
+  "file": "releases/rules-docs-sync-0.5.0.vsix",
+  "sha256": "adf6aee5b5f3176a154d1a3d3a54aebad689510dc811d25763090791115f0664",
+  "notes": "BRIX side panel in the Activity Bar (status, actions, rule files to review); Restart extensions instead of Reload window after updates.",
   "minVersion": "0.0.0"
 }
