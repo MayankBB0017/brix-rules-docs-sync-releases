@@ -1,0 +1,7 @@
+{
+  "version": "0.3.0",
+  "file": "releases/rules-docs-sync-0.3.0.vsix",
+  "sha256": "34d72b262b422c77c78030a434c6e4aab93e00045a43050325da16d373b4f7ce",
+  "notes": "First self-updating release: automatic updates via Git, m:ss next-sync countdown, sync notifications, conflict popup, BRIX naming.",
+  "minVersion": "0.0.0"
+}
