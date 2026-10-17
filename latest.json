@@ -1,7 +1,7 @@
 {
-  "version": "0.4.1",
-  "file": "releases/rules-docs-sync-0.4.1.vsix",
-  "sha256": "7466951c96c3cf4a08fafc7492550eaaaf4294b911337ca4998bc0d0a5c99c6a",
-  "notes": "Find the rules folder without reloading: Check again button, automatic pickup after cloning the rules repo.",
+  "version": "0.4.2",
+  "file": "releases/rules-docs-sync-0.4.2.vsix",
+  "sha256": "b5438643be97c1a4592a2c1b016515f2adbfa1d119bea4b2efba408196870b0e",
+  "notes": "Status bar hover no longer blinks; new Refresh button to check everything again.",
   "minVersion": "0.0.0"
 }
