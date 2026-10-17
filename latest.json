@@ -1,7 +1,7 @@
 {
-  "version": "0.3.2",
-  "file": "releases/rules-docs-sync-0.3.2.vsix",
-  "sha256": "785af872f3b82fc6e334d6162158a2712abc07c3d0feb6b19438a058f3c1904d",
-  "notes": "Check for updates button in the status bar hover (plus Pull now and Show log).",
+  "version": "0.4.0",
+  "file": "releases/rules-docs-sync-0.4.0.vsix",
+  "sha256": "2c3e7c80116d51ba3ae703acd6e48bb045dd9e638f3fa47245d4e0142b72f7a3",
+  "notes": "Update root files: two-way sync between root/ and the project-root rule files (safe ignore checks, review with diffs, copy back to root/).",
   "minVersion": "0.0.0"
 }
