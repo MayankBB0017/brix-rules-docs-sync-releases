@@ -1,7 +1,7 @@
 {
-  "version": "0.5.0",
-  "file": "releases/rules-docs-sync-0.5.0.vsix",
-  "sha256": "adf6aee5b5f3176a154d1a3d3a54aebad689510dc811d25763090791115f0664",
-  "notes": "BRIX side panel in the Activity Bar (status, actions, rule files to review); Restart extensions instead of Reload window after updates.",
+  "version": "0.6.0",
+  "file": "releases/rules-docs-sync-0.6.0.vsix",
+  "sha256": "57b7aff8c1716380eda7c18f944a8a6d5fffd60b0db7ce36bdd0f5a1885b55d0",
+  "notes": "Review & Push: commit + push your Rules & Docs changes from the editor (file list with diffs, default commit message, safe rebase, clear error hints). Wrong GitHub account message with a copyable git remote set-url command. pushMode autoAfterReview.",
   "minVersion": "0.0.0"
 }
