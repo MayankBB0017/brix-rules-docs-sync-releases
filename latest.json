@@ -1,7 +1,7 @@
 {
-  "version": "0.10.0",
-  "file": "releases/rules-docs-sync-0.10.0.vsix",
-  "sha256": "c0d1d8c81f16ac42d240a562d060fee8ee2f109ed078a44c6c767414d130f94b",
-  "notes": "New extension ID (brainbox-infoway-pvt-ltd): uninstall the old BRIX extension once, restart, install this VSIX. Syncs legacy v2 Rules & Docs repos (with Disable old auto-push hook), ignored folders (Ignore This Folder / Pause BRIX), Root files toggle in the side panel, exact Review & Push commits, minute countdown in the status bar.",
+  "version": "0.11.1",
+  "file": "releases/rules-docs-sync-0.11.1.vsix",
+  "sha256": "a44eda97f353a066c19f64fb2b8cdcc26bd3e0b01d3b0fe0026dd5efb073ad18",
+  "notes": "GitHub account detection: the side panel shows your GitHub account and the account this Rules and Docs repo uses. On no access, BRIX tests your other GitHub accounts quietly and offers the one that has access (Use it). New command BRIX: Change GitHub Account for This Repo. Set Up Project picks the working account before cloning. Note when your editor account is not saved for Git yet (Sign in once).",
   "minVersion": "0.0.0"
 }
