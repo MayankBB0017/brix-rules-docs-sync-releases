@@ -1,7 +1,7 @@
 {
-  "version": "0.11.1",
-  "file": "releases/rules-docs-sync-0.11.1.vsix",
-  "sha256": "a44eda97f353a066c19f64fb2b8cdcc26bd3e0b01d3b0fe0026dd5efb073ad18",
-  "notes": "GitHub account detection: the side panel shows your GitHub account and the account this Rules and Docs repo uses. On no access, BRIX tests your other GitHub accounts quietly and offers the one that has access (Use it). New command BRIX: Change GitHub Account for This Repo. Set Up Project picks the working account before cloning. Note when your editor account is not saved for Git yet (Sign in once).",
+  "version": "0.11.2",
+  "file": "releases/rules-docs-sync-0.11.2.vsix",
+  "sha256": "e21a9ef662a09520b2e79e3a1ddd2340fa7ab054f6a5b2514042baf63ff3357e",
+  "notes": "The GitHub account card now shows the account Git actually uses for the repo (Pinned, Git, GitHub Desktop or Editor), every GitHub login found on this PC with access marks, and a Check login button (also BRIX: Check GitHub Login). A GitHub Desktop account that Git does not have yet gets a Sign in once note. Names only, no tokens are read.",
   "minVersion": "0.0.0"
 }
