@@ -1,7 +1,7 @@
 {
-  "version": "0.8.0",
-  "file": "releases/rules-docs-sync-0.8.0.vsix",
-  "sha256": "d5bb41aadd743ae90b93e7fd6293c7f002eb6cf3300ada756221b6602f8b39d9",
-  "notes": "New BRIX side panel (up to date with live countdown, unpushed changes with push from the panel, conflict help, new project setup) and one-click BRIX: Set Up Project (clone, hide AI files via .git/info/exclude, copy rule files, health check). Reminders: Remind me in 15 min; red status bar on a failed push.",
+  "version": "0.9.1",
+  "file": "releases/rules-docs-sync-0.9.1.vsix",
+  "sha256": "8da62acc7ddf3f17559e2fefd76479236c56f694b0f534800e14b160fca87af7",
+  "notes": "New extension ID (publisher brainbox-infoway-pvt-ltd): one-time reinstall needed — uninstall the old BRIX extension, restart, install this VSIX. Side panel: Root files toggle (collapsed by default, file tree with status, ignore source on hover), syncing state fixed. Company: Brainbox Infoway Pvt. Ltd.",
   "minVersion": "0.0.0"
 }
