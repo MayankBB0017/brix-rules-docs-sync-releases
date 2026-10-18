@@ -1,7 +1,7 @@
 {
-  "version": "0.7.0",
-  "file": "releases/rules-docs-sync-0.7.0.vsix",
-  "sha256": "0b17daab17a4672b243d7c1af026cc731260e48210356c01c427fd6c74b37765",
-  "notes": "Push reminders (30 min, persisted, on every project commit/push, red status when overdue), reminders for other projects with unpushed Rules & Docs changes, and BRIX: Run Health Check (Git setup, ignore rules, wrong GitHub account, committed AI files, v2 leftovers and more).",
+  "version": "0.7.1",
+  "file": "releases/rules-docs-sync-0.7.1.vsix",
+  "sha256": "d0b2239e40a38efb0190736aa23efd3a3e1fd2bd67e576569d2f220f077aa31a",
+  "notes": "Offline: reviewed commits now push automatically once the network is back (both push modes). Clock times are HH:MM. Two windows on the same project no longer both show the same push reminder.",
   "minVersion": "0.0.0"
 }
