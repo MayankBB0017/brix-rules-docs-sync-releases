@@ -1,7 +1,7 @@
 {
-  "version": "0.11.2",
-  "file": "releases/rules-docs-sync-0.11.2.vsix",
-  "sha256": "e21a9ef662a09520b2e79e3a1ddd2340fa7ab054f6a5b2514042baf63ff3357e",
-  "notes": "The GitHub account card now shows the account Git actually uses for the repo (Pinned, Git, GitHub Desktop or Editor), every GitHub login found on this PC with access marks, and a Check login button (also BRIX: Check GitHub Login). A GitHub Desktop account that Git does not have yet gets a Sign in once note. Names only, no tokens are read.",
+  "version": "0.11.3",
+  "file": "releases/rules-docs-sync-0.11.3.vsix",
+  "sha256": "2ab3dcf0f6cc154d1dc215a3bfa4c5744c4704500081ac975ebda970a08e68e7",
+  "notes": "No more repeated Git sign-in windows: BRIX checks quietly before every background fetch or push and only opens a sign-in when you click Sign in (one at a time across windows). Simpler account line: GitHub account with source tag, One-time sign-in needed, or cannot access this repo, with Details for all logins. Account order: your choice, then GitHub Desktop, then Git, then the editor. Names only, no tokens are read.",
   "minVersion": "0.0.0"
 }
